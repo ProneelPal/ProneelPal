@@ -2,4 +2,3 @@
 - 👀 I’m interested in playing chess, programming, storywriting, etc.
 - 🌱 I’m currently learning Python.
 - 🧑‍💻 I love open source but not a purist.
-- 🏫 I read in [Kendriya Vidyalaya Barrackpore Army](https://armybarrackpore.kvs.ac.in/) ([wiki](https://en.wikipedia.org/wiki/Kendriya_Vidyalaya_Barrackpore_(Army)))
